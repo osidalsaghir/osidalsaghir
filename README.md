@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osidalsaghir
-- 👀 I’m iweb development
+- 👀 I’m a web development
 - 🌱 I’m currently working
 - 💞️ I’m looking to open source code.
 - 📫 reach me on osid.alsagheer@gmail.com
